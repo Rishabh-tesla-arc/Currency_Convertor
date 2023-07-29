@@ -4,4 +4,4 @@
 
 ##### First - It will ask the user to select the type of currency he/she wants to exchange with rupees.
 ##### Second - Appropriate message will be display if the entered currency exists in the database or not.
-##### Third - If currency exists in your database. Rupees Amount will be asked to entered. And Result will be declared.
+##### Third - If currency exists in our database. Rupees Amount will be asked to entered. And Result will be declared.
